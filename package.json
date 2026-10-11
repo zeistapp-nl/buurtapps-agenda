@@ -1,0 +1,9 @@
+{
+  "name": "buurtapps-agenda",
+  "version": "1.0.0",
+  "description": "Agenda-widgets (o.a. Beauforthuis) als server-gerenderde pagina voor iframes in de BuurtApps",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
